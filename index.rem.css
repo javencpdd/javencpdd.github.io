@@ -1,0 +1,309 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  position: relative;
+  width: 80rem;
+  height: 52.8rem;
+  overflow: hidden;
+}
+
+.group_1 {
+  width: 80rem;
+  height: 52.8rem;
+  background: url(./img/psdcgx9tk8y96cakpuuhdk4kvn0ai3qtz290a1c39e6-92ec-4852-916c-2daf98cbe09e.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.section_1 {
+  width: 80rem;
+  height: 3.894rem;
+  background: url(./img/pswzrbxn88uxkaxevw7dekgepi9r9z6zvxma2fb00aa-a098-4e45-9193-1f71f1701dcd.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.image_1 {
+  width: 2.96rem;
+  height: 3.12rem;
+  margin: 0.32rem 0 0 0.934rem;
+}
+
+.text_1 {
+  width: 13.12rem;
+  height: 1.254rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.333rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 1.227rem 0 0 0.267rem;
+}
+
+.text-wrapper_1 {
+  height: 2.214rem;
+  background: url(./img/psb5y7iaqi7vdpfjw5la8igpi97i2tjtfb6e7b8f1-4173-40d6-bbdf-c6e2e1d70f76.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 12.854rem;
+  margin: 0.774rem 0 0 33.227rem;
+}
+
+.text_2 {
+  width: 4.08rem;
+  height: 0.88rem;
+  overflow-wrap: break-word;
+  color: rgba(164, 163, 163, 1);
+  font-size: 1.066rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.067rem;
+  margin: 0.64rem 0 0 0.694rem;
+}
+
+.text-wrapper_2 {
+  height: 2.214rem;
+  background: url(./img/psbqq0v3b7w7a3kr54ir3uzvvknp0o7xwe76a9007e-cf2a-4694-9dae-e09678a8c727.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 3.067rem;
+  margin: 0.774rem 0 0 0.267rem;
+}
+
+.text_3 {
+  width: 2rem;
+  height: 0.987rem;
+  overflow-wrap: break-word;
+  color: rgba(45, 44, 44, 1);
+  font-size: 1.066rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.067rem;
+  margin: 0.56rem 0 0 0.534rem;
+}
+
+.text_4 {
+  width: 4.694rem;
+  height: 1.334rem;
+  overflow-wrap: break-word;
+  color: rgba(231, 226, 226, 1);
+  font-size: 1.333rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.334rem;
+  margin: 1.494rem 2.827rem 0 5.787rem;
+}
+
+.block_1 {
+  position: relative;
+  width: 80rem;
+  height: 48.934rem;
+  margin-bottom: 0.027rem;
+}
+
+.group_2 {
+  width: 69.76rem;
+  height: 36.347rem;
+  background: url(./img/pseefcoz1ukm620qwfgudqy2z0xabwa8b7rd86e85cb-d34e-416e-8182-40ebdd58b45a.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 1.627rem 0 0 5.12rem;
+}
+
+.image_2 {
+  width: 3.094rem;
+  height: 1.894rem;
+  margin: 33.867rem 0 0 15.6rem;
+}
+
+.image-wrapper_2 {
+  width: 27.547rem;
+  height: 1.734rem;
+  justify-content: flex-center;
+  margin: 33.947rem 0 0 1.974rem;
+}
+
+.image_3-0 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-1 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-2 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-3 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-4 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-5 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-6 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_3-7 {
+  width: 2.08rem;
+  height: 2.054rem;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.16rem 1.654rem 0 -0.16rem;
+}
+
+.image_4 {
+  width: 3.094rem;
+  height: 1.894rem;
+  margin: 33.947rem 16.614rem 0 1.84rem;
+}
+
+.box_3 {
+  width: 68.027rem;
+  height: 9.707rem;
+  margin: 1.227rem 0 0.027rem 5.92rem;
+}
+
+.box_1 {
+  width: 26.747rem;
+  height: 9.867rem;
+  background: url(./img/ps9w7t9cqm9wtysh1edhabd3oatht99feae56ba0dc-2bfc-43d3-ab84-0832e2aac703.png) -0.107rem -0.107rem
+    no-repeat;
+  background-size: 26.8rem 9.814rem;
+  margin: -0.08rem 0 0 -0.08rem;
+}
+
+.text_5 {
+  width: 18.24rem;
+  height: 2.427rem;
+  overflow-wrap: break-word;
+  color: rgba(33, 32, 32, 1);
+  font-size: 2.666rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.667rem;
+  margin: 0.88rem 0 0 3.654rem;
+}
+
+.text-wrapper_3 {
+  width: 22.374rem;
+  height: 5.974rem;
+  background: url(./img/pssyx03erga1ldsvjlwu6my7i60fi5qvh79eef7010-2146-4263-a381-1cc5008479cb.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.507rem 0 0.08rem 1.574rem;
+}
+
+.text_6 {
+  width: 12.48rem;
+  height: 1.28rem;
+  overflow-wrap: break-word;
+  color: rgba(84, 83, 83, 1);
+  font-size: 1.386rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.387rem;
+  margin: 2.08rem 0 0 1.974rem;
+}
+
+.text_7 {
+  width: 7.04rem;
+  height: 0.72rem;
+  overflow-wrap: break-word;
+  color: rgba(84, 83, 83, 1);
+  font-size: 1.386rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.387rem;
+  margin: 1.894rem 0 0 2.027rem;
+}
+
+.box_2 {
+  position: relative;
+  width: 37.254rem;
+  height: 9.547rem;
+  background: url(./img/pst21wacm55ibi3t55d5j0swcxnjsqz4g59b16ca0-a25e-4b09-946c-7bbfc7b019dc.png) -0.107rem -0.107rem
+    no-repeat;
+  background-size: 37.307rem 9.494rem;
+  margin: 0.24rem -0.08rem 0 0;
+}
+
+.text_8 {
+  width: 18.267rem;
+  height: 2.534rem;
+  overflow-wrap: break-word;
+  color: rgba(33, 32, 32, 1);
+  font-size: 2.666rem;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.667rem;
+  margin: 0.64rem 0 0 8.64rem;
+}
+
+.image_5 {
+  width: 22.374rem;
+  height: 5.414rem;
+  margin: 0.88rem 0 0.08rem 7.12rem;
+}
+
+.image_6 {
+  position: absolute;
+  left: 1.574rem;
+  top: 5.307rem;
+  width: 33.36rem;
+  height: 4.08rem;
+}
+
+.image_7 {
+  position: absolute;
+  left: 5.04rem;
+  top: 34.854rem;
+  width: 69.894rem;
+  height: 3.254rem;
+}

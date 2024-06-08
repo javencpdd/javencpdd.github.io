@@ -1,0 +1,305 @@
+.page {
+  position: relative;
+  width: 100vw;
+  height: 66vw;
+  overflow: hidden;
+}
+
+.group_1 {
+  width: 100vw;
+  height: 66vw;
+  background: url(./img/psdcgx9tk8y96cakpuuhdk4kvn0ai3qtz290a1c39e6-92ec-4852-916c-2daf98cbe09e.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.section_1 {
+  width: 100vw;
+  height: 4.87vw;
+  background: url(./img/pswzrbxn88uxkaxevw7dekgepi9r9z6zvxma2fb00aa-a098-4e45-9193-1f71f1701dcd.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.image_1 {
+  width: 3.7vw;
+  height: 3.9vw;
+  margin: 0.4vw 0 0 1.16vw;
+}
+
+.text_1 {
+  width: 16.4vw;
+  height: 1.57vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.66vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.67vw;
+  margin: 1.53vw 0 0 0.33vw;
+}
+
+.text-wrapper_1 {
+  height: 2.77vw;
+  background: url(./img/psb5y7iaqi7vdpfjw5la8igpi97i2tjtfb6e7b8f1-4173-40d6-bbdf-c6e2e1d70f76.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 16.07vw;
+  margin: 0.96vw 0 0 41.53vw;
+}
+
+.text_2 {
+  width: 5.1vw;
+  height: 1.1vw;
+  overflow-wrap: break-word;
+  color: rgba(164, 163, 163, 1);
+  font-size: 1.33vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.34vw;
+  margin: 0.8vw 0 0 0.86vw;
+}
+
+.text-wrapper_2 {
+  height: 2.77vw;
+  background: url(./img/psbqq0v3b7w7a3kr54ir3uzvvknp0o7xwe76a9007e-cf2a-4694-9dae-e09678a8c727.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 3.84vw;
+  margin: 0.96vw 0 0 0.33vw;
+}
+
+.text_3 {
+  width: 2.5vw;
+  height: 1.24vw;
+  overflow-wrap: break-word;
+  color: rgba(45, 44, 44, 1);
+  font-size: 1.33vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.34vw;
+  margin: 0.7vw 0 0 0.66vw;
+}
+
+.text_4 {
+  width: 5.87vw;
+  height: 1.67vw;
+  overflow-wrap: break-word;
+  color: rgba(231, 226, 226, 1);
+  font-size: 1.66vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.67vw;
+  margin: 1.86vw 3.53vw 0 7.23vw;
+}
+
+.block_1 {
+  position: relative;
+  width: 100vw;
+  height: 61.17vw;
+  margin-bottom: 0.04vw;
+}
+
+.group_2 {
+  width: 87.2vw;
+  height: 45.44vw;
+  background: url(./img/pseefcoz1ukm620qwfgudqy2z0xabwa8b7rd86e85cb-d34e-416e-8182-40ebdd58b45a.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 2.03vw 0 0 6.4vw;
+}
+
+.image_2 {
+  width: 3.87vw;
+  height: 2.37vw;
+  margin: 42.33vw 0 0 19.5vw;
+}
+
+.image-wrapper_2 {
+  width: 34.44vw;
+  height: 2.17vw;
+  justify-content: flex-center;
+  margin: 42.43vw 0 0 2.46vw;
+}
+
+.image_3-0 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-1 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-2 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-3 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-4 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-5 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-6 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_3-7 {
+  width: 2.6vw;
+  height: 2.57vw;
+  border: 6px solid rgba(255, 255, 255, 1);
+  margin: -0.2vw 2.06vw 0 -0.2vw;
+}
+
+.image_4 {
+  width: 3.87vw;
+  height: 2.37vw;
+  margin: 42.43vw 20.76vw 0 2.3vw;
+}
+
+.box_3 {
+  width: 85.04vw;
+  height: 12.14vw;
+  margin: 1.53vw 0 0.03vw 7.4vw;
+}
+
+.box_1 {
+  width: 33.44vw;
+  height: 12.34vw;
+  background: url(./img/ps9w7t9cqm9wtysh1edhabd3oatht99feae56ba0dc-2bfc-43d3-ab84-0832e2aac703.png) -0.14vw -0.14vw
+    no-repeat;
+  background-size: 33.5vw 12.26vw;
+  margin: -0.1vw 0 0 -0.1vw;
+}
+
+.text_5 {
+  width: 22.8vw;
+  height: 3.04vw;
+  overflow-wrap: break-word;
+  color: rgba(33, 32, 32, 1);
+  font-size: 3.33vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 3.34vw;
+  margin: 1.1vw 0 0 4.56vw;
+}
+
+.text-wrapper_3 {
+  width: 27.97vw;
+  height: 7.47vw;
+  background: url(./img/pssyx03erga1ldsvjlwu6my7i60fi5qvh79eef7010-2146-4263-a381-1cc5008479cb.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin: 0.63vw 0 0.1vw 1.96vw;
+}
+
+.text_6 {
+  width: 15.6vw;
+  height: 1.6vw;
+  overflow-wrap: break-word;
+  color: rgba(84, 83, 83, 1);
+  font-size: 1.73vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.74vw;
+  margin: 2.6vw 0 0 2.46vw;
+}
+
+.text_7 {
+  width: 8.8vw;
+  height: 0.9vw;
+  overflow-wrap: break-word;
+  color: rgba(84, 83, 83, 1);
+  font-size: 1.73vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 1.74vw;
+  margin: 2.36vw 0 0 2.53vw;
+}
+
+.box_2 {
+  position: relative;
+  width: 46.57vw;
+  height: 11.94vw;
+  background: url(./img/pst21wacm55ibi3t55d5j0swcxnjsqz4g59b16ca0-a25e-4b09-946c-7bbfc7b019dc.png) -0.14vw -0.14vw
+    no-repeat;
+  background-size: 46.63vw 11.86vw;
+  margin: 0.3vw -0.1vw 0 0;
+}
+
+.text_8 {
+  width: 22.84vw;
+  height: 3.17vw;
+  overflow-wrap: break-word;
+  color: rgba(33, 32, 32, 1);
+  font-size: 3.33vw;
+  font-family: Adobe Heiti Std R;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 3.34vw;
+  margin: 0.8vw 0 0 10.8vw;
+}
+
+.image_5 {
+  width: 27.97vw;
+  height: 6.77vw;
+  margin: 1.1vw 0 0.1vw 8.9vw;
+}
+
+.image_6 {
+  position: absolute;
+  left: 1.97vw;
+  top: 6.64vw;
+  width: 41.7vw;
+  height: 5.1vw;
+}
+
+.image_7 {
+  position: absolute;
+  left: 6.3vw;
+  top: 43.57vw;
+  width: 87.37vw;
+  height: 4.07vw;
+}
