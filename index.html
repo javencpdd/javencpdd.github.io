@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>秘密小屋</title>
+    <title>伤心地</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <!--<meta itemprop="image" content="./images/fenxiang.png" />-->
@@ -122,25 +122,8 @@
 
 <body>
 <br>
-<!--女朋友的头像-->
-<div class="cs">
-    <a href=".\calculateDate.html">
-        <img src=".\girl.jpg" id="logo">
-    </a>
-</div>
-<div class="music">
-<!--     <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=282 height=86 src="https://music.163.com/outchain/player?type=2&id=34341360&auto=1&height=66"></iframe> -->
-    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=34341360&auto=1&height=32"></iframe>   
-    <br><br>
-</div>
+
 <canvas class="canvas" width="1820" height="905"></canvas>
-<p class="text" style="color: #FFCCCC;">
-    小猫猫, I will accompany you in the future!
-    <br/>
-    We have loved one another：
-    <br/>
-    <span id="span_dt_dt"></span>
-</p>
 
 <script language="javascript">
     function show_date_time() {
@@ -166,29 +149,9 @@
     var S = {
         init: function () {
             S.Drawing.init('.canvas');
-            var a =Math.floor(Math.random() * 5+1);
-            //想说的话
-            if (a==1) {
-                document.body.classList.add('body--ready');
+          document.body.classList.add('body--ready');
                 alert("佳文永远在这哦"); 
-                S.UI.simulate("卡卡|遇见你|很幸运|#time");
-            }else if (a==2){
-                document.body.classList.add('body--ready1');
-                alert("你想去的地方我陪你去~");
-                S.UI.simulate("小猫猫|我爱你|#time");               
-            }else if (a==3) {
-                 document.body.classList.add('body--ready2');
-                 alert("你想做的事情我都陪你做~");
-                 S.UI.simulate("Nice|to|Meet|kaka|#countdown 3|#time");                
-            }else if (a==4) {
-                 document.body.classList.add('body--ready3');
-                 alert("任何时候记住你都有我，我爱你，超级超级超级爱你~");
-                 S.UI.simulate("夏|以后的路|我|陪着你|走|#countdown 3|#time");
-            }else{
-                 document.body.classList.add('body--ready4');
-                 alert("小傻子，我爱你哦~");
-                 S.UI.simulate("卡卡");                
-            }
+                S.UI.simulate("佳文停留在此处");
 
             S.Drawing.loop(function () {
                 S.Shape.render();
